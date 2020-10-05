@@ -37,7 +37,7 @@ As we continue to build out the features and the product, the project file is
 checked in with our source code so it is shared and expanded to represent the
 code being created.
 
-An additional benefit, I wanted to be able to track the progress of features
+An additional benefit, I want to able to track the progress of features
 being built. This allows for marking off tasks as being completed (which can be
 checked in with the implementing code). Since the report output is a static HTML
 file, a project build system can generate the report for what is committed on,
